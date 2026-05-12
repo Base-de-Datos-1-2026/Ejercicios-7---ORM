@@ -1,0 +1,11 @@
+/bootstrap/cache/*
+!/bootstrap/cache/.gitkeep
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+database/*.sqlite
+.DS_Store
+.idea
+.vscode
